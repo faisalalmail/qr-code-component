@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/faisalalmail/qr-code-component)
-- Live Site URL: [Add live site URL here](https://qr-code-component-three-drab.vercel.app/)
+- Solution URL: [click here](https://github.com/faisalalmail/qr-code-component)
+- Live Site URL: [click here](https://qr-code-component-three-drab.vercel.app/)
 
 ## My process
 
