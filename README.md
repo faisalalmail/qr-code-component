@@ -60,6 +60,6 @@ I dont want to keep this part blank, but sure moving forward to the next fronten
 My name is Faisal - A 35 year old guy from a small island in the middle of the world called Bahrain. I had the passion to code and practiced with html and PHP long ago. I stopped then, but the passion never died. and this could be my way to return.
 
 - Instagram - [Faisal Almail](https://www.instagram.com/faisal.almail)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/faisalalmail)
+- Frontend Mentor - [@FaisalAlmail](https://www.frontendmentor.io/profile/faisalalmail)
 
 
